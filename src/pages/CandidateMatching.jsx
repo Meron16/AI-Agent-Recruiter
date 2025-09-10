@@ -283,9 +283,10 @@ const CandidateMatching = () => {
                 <Typography variant="h4">1,234</Typography>
               </Box>
               <Box>
-                <Typography variant="body2" color="text.secondary">
-                  High Match Rate (>90%)
-                </Typography>
+               <Typography variant="body2" color="text.secondary">
+  High Match Rate (&gt;90%)
+</Typography>
+
                 <Typography variant="h4">456</Typography>
               </Box>
               <Box>
